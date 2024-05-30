@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0756f30a60080a44b7e71b3f899893a, type: 3}
+  m_Name: Health Potion
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 10
+  <Name>k__BackingField: Health Potion
+  <Description>k__BackingField: Brewed from a blend of rare herbs and botanical wonders,
+    this herbal potion is a miraculous elixir for weary adventurers. Its verdant
+    hue promises vitality and restoration, offering a revitalizing boost to both
+    body and spirit when imbibed. Restores 100 HP.
+  <ItemImage>k__BackingField: {fileID: -1211009770, guid: 665e721efaf68ab3696378826a19bbad, type: 3}
+  <DefaultParametersList>k__BackingField: []
+  <itemPrefab>k__BackingField: {fileID: 1406593532396460908, guid: 1346815df8cce60f68d1c67bc2806451, type: 3}
+  modifiersData:
+  - statModifier: {fileID: 11400000, guid: ff1782e915e5c5a8682b36a0c83e8f36, type: 2}
+    value: 100
+  <actionSFX>k__BackingField: {fileID: 0}

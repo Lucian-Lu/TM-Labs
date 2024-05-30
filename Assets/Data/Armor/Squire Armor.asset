@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 741ce6b8bc3a326468b973395deccc14, type: 3}
+  m_Name: Squire Armor
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: Squire Armor
+  <Description>k__BackingField: The Squire Armor, a modest yet reliable set, offers
+    fledgling adventurers their first taste of true protection. Though simple in
+    design, it signifies the wearer's initial step towards knighthood, crafted to
+    endure the trials of a novice. Increases Max HP to 250.
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: 19db6c9bef38de037a646d5da0f79d88, type: 3}
+  <DefaultParametersList>k__BackingField: []
+  <itemPrefab>k__BackingField: {fileID: 1535104822877607150, guid: bbed1876715b0a2df86cbc020e750d68, type: 3}
+  attackDamage: 0
+  maxHealthIncrease: 250
+  <actionSFX>k__BackingField: {fileID: 0}

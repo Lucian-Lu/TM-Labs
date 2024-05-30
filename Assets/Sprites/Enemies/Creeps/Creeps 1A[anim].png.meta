@@ -1,0 +1,1865 @@
+fileFormatVersion: 2
+guid: 614171dea86dfe49ebda95547fa62c6c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2097
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7774e401f8c78d0583cbeb30ddb5773
+      internalID: -1929784765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2097
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb6d001e79eef32fa5f8664fcb596cd
+      internalID: -476904108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2097
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7980147a810b0237e94f6e27eae67c4e
+      internalID: -266730533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2097
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117cd6b441e1bbd39bb58b87e18f5d7a
+      internalID: -1635983358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1937
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6f5a284431b076f89e4ddd32fe9c5d
+      internalID: 1990931422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1937
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c4787f7e6ad74a9f683d39ef2217a
+      internalID: -877696430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1937
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4a0a973249d9de5b277231f5a7c752
+      internalID: -374198533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1937
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5da78955c61ab85db5702074675846b
+      internalID: 593969466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1777
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81d1c2d929f54a5182ebb925636cbdd
+      internalID: -683715021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1777
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4bd21046984d47594cb828a28321cb
+      internalID: 348049202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1777
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08d5f0ded4fab000b13fccdb219131f
+      internalID: -1102405932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1777
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba0a7f858301b85299f45dfa9791908
+      internalID: 171104413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1618
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b221efd0efbc9f08ad4c555edd2d795
+      internalID: -1970243300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1618
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f06f5f854da6d56a9d9052d31943f26
+      internalID: 1201409289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1618
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455ffd61f4ec3b6ce812f5097495c186
+      internalID: 1207668298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1618
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54470818c831919d0ba0320b25baf7a3
+      internalID: -1461196393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1457
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402dfd8b0e33b49a3bcd3910862c176c
+      internalID: 93818339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1457
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05768708c809c5070b8a1bfece55b97a
+      internalID: -1379707072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1457
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ea94e740d6d07580024214130b0f6
+      internalID: -84334630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1457
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5178c56c2a51a99afd158949c757fa
+      internalID: -1074570430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1297
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c993bcd641d0cf29433baec44662ee
+      internalID: -1390648491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1297
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abecaf9e49100cd7a9bb2ae064abb73d
+      internalID: -624931102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1297
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d813bcce1214a719fb44d1a80367ab48
+      internalID: -1290117925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1297
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3787841323448727ebec0221cf13c754
+      internalID: 782085615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1137
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2558736d9dc678bb4ab2393349c773
+      internalID: -434639918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1137
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43d27a2fbd113bce9077f50f51a9f6d
+      internalID: 1895872880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1138
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60fdaa6264c2392a903df793e8851c8
+      internalID: 1830945682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1138
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f2e39850bf0963da063984c4ba1e86
+      internalID: -131628948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 977
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b6bd01682f221a78c73627c420db71
+      internalID: -1774544954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 977
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2b7fcd91dd7fa6483191309ced94cf
+      internalID: 1570944947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 977
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a094d9c8312894b8cacc28d0591c03
+      internalID: -1399696901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 977
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79cc05e028bb4cb697f00b56c865576
+      internalID: -1120293634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 817
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a1194e1643af50f89cc19527983c59
+      internalID: 1572776343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 817
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb9de9f381e06d21970d829b648c8b1
+      internalID: -1775186422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 817
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a763b2e85c2bd64a69e902e55e6e0f12
+      internalID: 1146844060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 817
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c9fb6ffc3ed8f368e13056d0b1263c
+      internalID: -1038326185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 657
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af539c0fbe6f996a12c74e794f5173
+      internalID: -106400669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 657
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19f29154b1351f71a8576a76baae42e
+      internalID: -73411682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 657
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdf2d42c40fc92fea81a72bd8f06f52
+      internalID: 1751398704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 657
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3587696bfc3738e9e08a1e10ff7b47
+      internalID: -1236276880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 498
+        width: 83
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f6600208a151d328d3a6c99769ee75
+      internalID: 226111598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 498
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c18440e415d1d5b1aa9c1141a4ef3
+      internalID: -234685150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 498
+        width: 83
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf80157697eb1c09aa7745c9a523bfd
+      internalID: -922701662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 498
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fdc2e241aa8ddf4b716b306c4ee654
+      internalID: 1827288710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 337
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42762fd0484e2453fa85cf68224d684b
+      internalID: 1307694609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 337
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de43da2bc9e7980693f8cc696d1d6ee
+      internalID: -436686399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 337
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3687e56000619e1be0d62c005cd644
+      internalID: 632374396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 337
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c35599d1ce6ad08da6ee6a25a361000
+      internalID: -1318209236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 177
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13197373d7d68020a2048d7e3a53967
+      internalID: 216902194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 177
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e79cdc91017ebd78e9d268656638a6
+      internalID: 163688776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 177
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adcd3ce2ef69bf04b51e85e58e6e449
+      internalID: 2012671879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 177
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541cc169b1a6e125996f8a7cf6295702
+      internalID: -27878240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc96310566f9cf1feb5a6617797ac0df
+      internalID: 32223054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 56
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4ea9630ea48832ab4538762877b2ff
+      internalID: -1464095534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 81
+        width: 100
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1e77e1dc779cf7a88d0920df823a6a
+      internalID: 1122167351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 132
+        width: 104
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fe87704178b3331bb5de7b17966b80
+      internalID: 1861207293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 104
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eec778c4d3fb972584167afb9710314
+      internalID: -1487882893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d996473db9cbbfc3b8352583cb68644
+      internalID: 2018755835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 123
+        width: 133
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592e3e745fd340656a37c4aff592d7df
+      internalID: -1901290795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 102
+        width: 104
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b82d5a5f1ee42d999660b47b6852f5
+      internalID: 2126561516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85ff9e60e0fb7bc7b40f43b79c3c20c
+      internalID: -1615540057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 84
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a9e8151bc9665469441ce8d1918af2
+      internalID: -1416482142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 84
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c57da0d9ac52b7b96d64fffd859409
+      internalID: -284535937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 84
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f23dc02e5569e576b590dcb3dda5866
+      internalID: 1241786763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 9
+        width: 133
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909069f203a5b611e840a292dcfda826
+      internalID: -834093170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 73
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc4bcdf7833a36babb594fc9a1890bf
+      internalID: -220248944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 74
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffd30c5cf972cb35b567debf8fb4690
+      internalID: -1544619046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1adb42108ff3659fb4066d1ce0ba4
+      internalID: -1484444454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aa911db1f597e4699b2cd07fc6fd0c
+      internalID: -1911681392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca64b8cd1ab5e885fa15e904fd53d1b7
+      internalID: -1807324543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 50
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632a52df06dbc57dd8f9ff560edeed7f
+      internalID: -2089629649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35da37250bdfb5188b232c8186629c8
+      internalID: -1676384065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_72
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 28
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109c0fd79425c7695a0529308789b2c1
+      internalID: -198120219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 28
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32e867e38a02f390a576720e05ced24
+      internalID: 162117444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_74
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 146
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eb702e3b612a1e292aec0503bec84e
+      internalID: -257984565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_75
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da7ab3423314acc82cebfe06168ec6
+      internalID: 415177313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_76
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 4
+        width: 95
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555622a6623a939afacb880bf78244f9
+      internalID: 1471874091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ef536ec715172899eefe77bc73659c
+      internalID: 771502057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creeps 1A[anim]_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 9
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d6ad08eb63828848a9bb087bd0b28f
+      internalID: 87840517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Creeps 1A[anim]_0: -1929784765
+      Creeps 1A[anim]_1: -476904108
+      Creeps 1A[anim]_10: -1102405932
+      Creeps 1A[anim]_11: 171104413
+      Creeps 1A[anim]_12: -1970243300
+      Creeps 1A[anim]_13: 1201409289
+      Creeps 1A[anim]_14: 1207668298
+      Creeps 1A[anim]_15: -1461196393
+      Creeps 1A[anim]_16: 93818339
+      Creeps 1A[anim]_17: -1379707072
+      Creeps 1A[anim]_18: -84334630
+      Creeps 1A[anim]_19: -1074570430
+      Creeps 1A[anim]_2: -266730533
+      Creeps 1A[anim]_20: -1390648491
+      Creeps 1A[anim]_21: -624931102
+      Creeps 1A[anim]_22: -1290117925
+      Creeps 1A[anim]_23: 782085615
+      Creeps 1A[anim]_24: -434639918
+      Creeps 1A[anim]_25: 1895872880
+      Creeps 1A[anim]_26: 1830945682
+      Creeps 1A[anim]_27: -131628948
+      Creeps 1A[anim]_28: -1774544954
+      Creeps 1A[anim]_29: 1570944947
+      Creeps 1A[anim]_3: -1635983358
+      Creeps 1A[anim]_30: -1399696901
+      Creeps 1A[anim]_31: -1120293634
+      Creeps 1A[anim]_32: 1572776343
+      Creeps 1A[anim]_33: -1775186422
+      Creeps 1A[anim]_34: 1146844060
+      Creeps 1A[anim]_35: -1038326185
+      Creeps 1A[anim]_36: -106400669
+      Creeps 1A[anim]_37: -73411682
+      Creeps 1A[anim]_38: 1751398704
+      Creeps 1A[anim]_39: -1236276880
+      Creeps 1A[anim]_4: 1990931422
+      Creeps 1A[anim]_40: 226111598
+      Creeps 1A[anim]_41: -234685150
+      Creeps 1A[anim]_42: -922701662
+      Creeps 1A[anim]_43: 1827288710
+      Creeps 1A[anim]_44: 1307694609
+      Creeps 1A[anim]_45: -436686399
+      Creeps 1A[anim]_46: 632374396
+      Creeps 1A[anim]_47: -1318209236
+      Creeps 1A[anim]_48: 216902194
+      Creeps 1A[anim]_49: 163688776
+      Creeps 1A[anim]_5: -877696430
+      Creeps 1A[anim]_50: 2012671879
+      Creeps 1A[anim]_51: -27878240
+      Creeps 1A[anim]_52: 32223054
+      Creeps 1A[anim]_53: -1464095534
+      Creeps 1A[anim]_54: 1122167351
+      Creeps 1A[anim]_55: 1861207293
+      Creeps 1A[anim]_56: -1487882893
+      Creeps 1A[anim]_57: 2018755835
+      Creeps 1A[anim]_58: -1901290795
+      Creeps 1A[anim]_59: 2126561516
+      Creeps 1A[anim]_6: -374198533
+      Creeps 1A[anim]_60: -1615540057
+      Creeps 1A[anim]_61: -1416482142
+      Creeps 1A[anim]_62: -284535937
+      Creeps 1A[anim]_63: 1241786763
+      Creeps 1A[anim]_64: -834093170
+      Creeps 1A[anim]_65: -220248944
+      Creeps 1A[anim]_66: -1544619046
+      Creeps 1A[anim]_67: -1484444454
+      Creeps 1A[anim]_68: -1911681392
+      Creeps 1A[anim]_69: -1807324543
+      Creeps 1A[anim]_7: 593969466
+      Creeps 1A[anim]_70: -2089629649
+      Creeps 1A[anim]_71: -1676384065
+      Creeps 1A[anim]_72: -198120219
+      Creeps 1A[anim]_73: 162117444
+      Creeps 1A[anim]_74: -257984565
+      Creeps 1A[anim]_75: 415177313
+      Creeps 1A[anim]_76: 1471874091
+      Creeps 1A[anim]_77: 771502057
+      Creeps 1A[anim]_78: 87840517
+      Creeps 1A[anim]_8: -683715021
+      Creeps 1A[anim]_9: 348049202
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

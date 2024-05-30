@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb4755ca39089f2b4aa6fd1372b8a2c0, type: 3}
+  m_Name: Stone
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 10
+  <Name>k__BackingField: Stone
+  <Description>k__BackingField: This Stone, found among the remains of earthy beasts,
+    is a basic yet indispensable material. It provides the foundation for crafting
+    sturdy and essential equipment.
+  <ItemImage>k__BackingField: {fileID: -425676464, guid: 2a3e13c246a4548838f619ebdf6fbf63, type: 3}
+  <DefaultParametersList>k__BackingField: []
+  <itemPrefab>k__BackingField: {fileID: 3693122776356442191, guid: 43277539734d364c8b792ecaf7241557, type: 3}
+  <actionSFX>k__BackingField: {fileID: 0}

@@ -1,0 +1,1711 @@
+fileFormatVersion: 2
+guid: dfdbb2caec8003a82a1d0c479e70c95e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demonpot C[anim]_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2092
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e303f0914817002b66160b7d0f2a31
+      internalID: 549430843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2093
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75dded969bd03114bb7fdaa0320ffea
+      internalID: -1325962620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2096
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b47a4d50e8f13ac98a306b975548ddc
+      internalID: -227084146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_3
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2096
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c876933c3f17a868997a4ac17eba9531
+      internalID: 456021525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1935
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ba45b1774448ec198a727f1832ff92
+      internalID: 175880008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1935
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29bd479840f60b7998bba1b68668916
+      internalID: 845681081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1935
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67706eb92f02e27deb129ab3bdcd7a99
+      internalID: 859166305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_7
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1935
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25a1d2363a3e54929b5e86ec1208614
+      internalID: 109777878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1772
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac72f2ef3bd35cb9293b70f0c082e7e0
+      internalID: 1345938927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1772
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f48e98553d27b3a886fd9057f1e16f
+      internalID: -997047284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1775
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d264d31f9b300938c0e626c425d846
+      internalID: 1931937073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1774
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36eca86ae61de5e08617f7f00526e9f
+      internalID: 1401484865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1671
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19b476ff7bb3ab7d91efa43d2c09acf
+      internalID: 529783962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1615
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fef64fa020d859cf9360b2808fdcc63
+      internalID: -1958903313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1671
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f635eeafda2331adb90e90a1b2fef0f
+      internalID: -884705824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1615
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f01b277b19a67f49a097ff1cd28b981
+      internalID: -740957651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_16
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1671
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a8173d3cecddc7bd5f0e68cfb64aa
+      internalID: -519863294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1615
+        width: 83
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a918858182612788120e663ea67c9f
+      internalID: -1146233354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_18
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1671
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f733cda0bc965e639819d909bbfb8bc
+      internalID: -358344986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_19
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1615
+        width: 83
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9634f7389ca25a5b442f461ad2030f
+      internalID: 486451720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1452
+        width: 63
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f695498eaccc7688dfde191f791c0e
+      internalID: 1208421428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1452
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c4ebfbaaa442ebb97edd04e6e8f4ca
+      internalID: 178348456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1456
+        width: 109
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60fdd1e7e7803d75a65e72da3e82920
+      internalID: 1971089288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1456
+        width: 108
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49042cc0451f435f9a85dd5d6bff8a34
+      internalID: -1941446189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1292
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1d07d5c153c9f069a3db038762ce43
+      internalID: 764297761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1295
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34bacfeb08401105bba0a8dfb98a2d8
+      internalID: -812857566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1295
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f9bf739a9d824ba953c0965fe22b0b
+      internalID: -1561562521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_27
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1292
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ec85b5a01bf49ac95e3e1a392b7008
+      internalID: -963566528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1132
+        width: 63
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce80bd119ba3a9ccba70d77f3dcefac
+      internalID: 1033246446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1135
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf1a3548a2a878393ad7376ff06df4
+      internalID: -1457819993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1132
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9a9c3155f71c5c58d3e3b5b602864a
+      internalID: -1306563835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_31
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1135
+        width: 107
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df902baf92af74431bd393e952d37bb7
+      internalID: 675811240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 973
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e202110f80dba13a86c3d447a20af8
+      internalID: 524779024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 976
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f32ef9d1e5aed63b85f33caa9324d4
+      internalID: 530432357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 976
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69d2d3cdbd67fcf09c4035c5b2b3e99
+      internalID: 670484492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 976
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c510facc1f7027b838c836cc0a9f1984
+      internalID: -724686382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 813
+        width: 117
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04b08cf1e966d7ec86e10735b54a90f
+      internalID: 764527755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 814
+        width: 132
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567b3490dce4e8d56b2f7856e14a2174
+      internalID: 2026113884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 813
+        width: 133
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bcef3529f192c73a2436625202384f
+      internalID: 499828710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_39
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 813
+        width: 123
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84360815563316560b31b2958329444b
+      internalID: 1077756221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 652
+        width: 117
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd3c86e470ca1a8490f9ab8b866ceb1
+      internalID: -712729676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 653
+        width: 133
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e90c9d588c40c09de5a401bb050c7
+      internalID: 498939740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_42
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 652
+        width: 132
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b9cfaf92c36b0e8761802c28bd847
+      internalID: 435194522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 652
+        width: 124
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784dc669feb8e0387953c98a074b9c1b
+      internalID: -1103746585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 495
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22681f1400c2756b0978e2ff176c8b30
+      internalID: 1122229515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_45
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 495
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b095bec8429d81cead961a43d1585f8
+      internalID: 1533562551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_46
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 495
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a807a0de1b0a8b045aebdbeb826b623f
+      internalID: 1867305122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_47
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 495
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6061d4dda9e28cbaf573b931d266d5
+      internalID: 1325763295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 332
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f613ab0a7dfaefc14a1651d30edd7715
+      internalID: 1328407328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 334
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efa7302e2c3e59c0ae72df576035a0b
+      internalID: -941739567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_50
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 336
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471807d28b777f5189c2c19d49913a04
+      internalID: -54536144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_51
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 336
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db4179e4fba59742b537df75ece0e72
+      internalID: -62201774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 170
+        width: 124
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f242ca4454dec8ea3832438642d63984
+      internalID: 552961453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_53
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 170
+        width: 124
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545bb3d626b9414a89891fd6f0228deb
+      internalID: -976515556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_54
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 170
+        width: 122
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0939fe0a3c763e0cb210efe5dd97509
+      internalID: 289849983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_55
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 170
+        width: 123
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87e1a758e69bcaefba0755057682c92
+      internalID: 1716065612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079a7017e6d0dc7ca91e67a7f413ab74
+      internalID: -1875642781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 62
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec5abb058683b4a8bfd2096e5ba4aff
+      internalID: -1937213586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 132
+        width: 104
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1db02620f09f9e14857911626cdd3bb
+      internalID: 11519813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 102
+        width: 68
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5646d895ad5c2a71b4b530d95cbeb58
+      internalID: -901339558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06f07fa13759a7b98fe64acc6eda6ab
+      internalID: -1376594293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_61
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a782829e1a5f6f6d9ecca29adbf9de7
+      internalID: -630228187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_62
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cc0e8fe86ca4dec932069118c06d8a
+      internalID: 1779570637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 50
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14469a65ca6ac6dee920e05fabaa4ade
+      internalID: 285152365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_64
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3205230ff41d3e87fb63c7df052a5453
+      internalID: 248019003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_65
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 28
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f549757859b9135809a4d2e90e5053
+      internalID: 233965231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 28
+        width: 71
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a694890c35bc24d268eb3f45615a8ee4
+      internalID: -224859991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 146
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6693c4f342a177497a0debd856b15b
+      internalID: 520981614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_68
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039d09231883d049397ccdfa828e581c
+      internalID: 226134654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_69
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 4
+        width: 95
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170f8657d670c588aafa3f1c4dbd9df2
+      internalID: -304520026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d400d14864f0570bf3bd924264d38c
+      internalID: 395948430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demonpot C[anim]_71
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 9
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b4b47d37c0f78d3be89a82421e78a0
+      internalID: 1790556040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Demonpot C[anim]_0: 549430843
+      Demonpot C[anim]_1: -1325962620
+      Demonpot C[anim]_10: 1931937073
+      Demonpot C[anim]_11: 1401484865
+      Demonpot C[anim]_12: 529783962
+      Demonpot C[anim]_13: -1958903313
+      Demonpot C[anim]_14: -884705824
+      Demonpot C[anim]_15: -740957651
+      Demonpot C[anim]_16: -519863294
+      Demonpot C[anim]_17: -1146233354
+      Demonpot C[anim]_18: -358344986
+      Demonpot C[anim]_19: 486451720
+      Demonpot C[anim]_2: -227084146
+      Demonpot C[anim]_20: 1208421428
+      Demonpot C[anim]_21: 178348456
+      Demonpot C[anim]_22: 1971089288
+      Demonpot C[anim]_23: -1941446189
+      Demonpot C[anim]_24: 764297761
+      Demonpot C[anim]_25: -812857566
+      Demonpot C[anim]_26: -1561562521
+      Demonpot C[anim]_27: -963566528
+      Demonpot C[anim]_28: 1033246446
+      Demonpot C[anim]_29: -1457819993
+      Demonpot C[anim]_3: 456021525
+      Demonpot C[anim]_30: -1306563835
+      Demonpot C[anim]_31: 675811240
+      Demonpot C[anim]_32: 524779024
+      Demonpot C[anim]_33: 530432357
+      Demonpot C[anim]_34: 670484492
+      Demonpot C[anim]_35: -724686382
+      Demonpot C[anim]_36: 764527755
+      Demonpot C[anim]_37: 2026113884
+      Demonpot C[anim]_38: 499828710
+      Demonpot C[anim]_39: 1077756221
+      Demonpot C[anim]_4: 175880008
+      Demonpot C[anim]_40: -712729676
+      Demonpot C[anim]_41: 498939740
+      Demonpot C[anim]_42: 435194522
+      Demonpot C[anim]_43: -1103746585
+      Demonpot C[anim]_44: 1122229515
+      Demonpot C[anim]_45: 1533562551
+      Demonpot C[anim]_46: 1867305122
+      Demonpot C[anim]_47: 1325763295
+      Demonpot C[anim]_48: 1328407328
+      Demonpot C[anim]_49: -941739567
+      Demonpot C[anim]_5: 845681081
+      Demonpot C[anim]_50: -54536144
+      Demonpot C[anim]_51: -62201774
+      Demonpot C[anim]_52: 552961453
+      Demonpot C[anim]_53: -976515556
+      Demonpot C[anim]_54: 289849983
+      Demonpot C[anim]_55: 1716065612
+      Demonpot C[anim]_56: -1875642781
+      Demonpot C[anim]_57: -1937213586
+      Demonpot C[anim]_58: 11519813
+      Demonpot C[anim]_59: -901339558
+      Demonpot C[anim]_6: 859166305
+      Demonpot C[anim]_60: -1376594293
+      Demonpot C[anim]_61: -630228187
+      Demonpot C[anim]_62: 1779570637
+      Demonpot C[anim]_63: 285152365
+      Demonpot C[anim]_64: 248019003
+      Demonpot C[anim]_65: 233965231
+      Demonpot C[anim]_66: -224859991
+      Demonpot C[anim]_67: 520981614
+      Demonpot C[anim]_68: 226134654
+      Demonpot C[anim]_69: -304520026
+      Demonpot C[anim]_7: 109777878
+      Demonpot C[anim]_70: 395948430
+      Demonpot C[anim]_71: 1790556040
+      Demonpot C[anim]_8: 1345938927
+      Demonpot C[anim]_9: -997047284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

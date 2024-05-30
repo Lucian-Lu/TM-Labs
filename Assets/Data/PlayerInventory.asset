@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ecf499ce883ffe41b588f37092666ef, type: 3}
+  m_Name: PlayerInventory
+  m_EditorClassIdentifier: 
+  inventoryItems:
+  - quantity: 5
+    item: {fileID: 11400000, guid: b6755f4d8d6cccd169b61dcd04512d43, type: 2}
+    itemState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: be9ff216275ff76b69a9c1e2ed32762d, type: 2}
+    itemState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: e1849128c0b2a4637be0221d785f000d, type: 2}
+    itemState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 364202205a3b55897b7d188090544d23, type: 2}
+    itemState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: a016db19a5da98ca0ad9eb18a888013a, type: 2}
+    itemState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: ee4b20fb532ad8a03825853f0d093e68, type: 2}
+    itemState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: ea8413b43372019b9ab625e68aad1215, type: 2}
+    itemState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 8ee646906774ab9c9af16671a2dd3fe3, type: 2}
+    itemState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: a36a2edf95e761a8ab193b4459555e15, type: 2}
+    itemState: []
+  - quantity: 10
+    item: {fileID: 11400000, guid: e19196bf15ed96f5a86608576f536798, type: 2}
+    itemState: []
+  - quantity: 10
+    item: {fileID: 11400000, guid: c3efdb7cfcd8ee7898451531949a5423, type: 2}
+    itemState: []
+  - quantity: 10
+    item: {fileID: 11400000, guid: 45db6db4fd913594aa84ca592454173a, type: 2}
+    itemState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: cce89c373dac2440396c5c71670268d4, type: 2}
+    itemState: []
+  - quantity: 10
+    item: {fileID: 11400000, guid: 4374471f3cfe32cf6bd7389c47dc9b1e, type: 2}
+    itemState: []
+  - quantity: 10
+    item: {fileID: 11400000, guid: 4a54e3f1990cb1f0cb9e8d8d8bf23650, type: 2}
+    itemState: []
+  - quantity: 1
+    item: {fileID: 11400000, guid: 8ee646906774ab9c9af16671a2dd3fe3, type: 2}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+  <Size>k__BackingField: 30

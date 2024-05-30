@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77c9af58af16867bdb409d2bfb98e38a, type: 3}
+  m_Name: Recipe - King Armor
+  m_EditorClassIdentifier: 
+  ingredients:
+  - {fileID: 11400000, guid: c3efdb7cfcd8ee7898451531949a5423, type: 2}
+  - {fileID: 11400000, guid: c3efdb7cfcd8ee7898451531949a5423, type: 2}
+  - {fileID: 11400000, guid: c3efdb7cfcd8ee7898451531949a5423, type: 2}
+  - {fileID: 11400000, guid: c3efdb7cfcd8ee7898451531949a5423, type: 2}
+  - {fileID: 11400000, guid: c3efdb7cfcd8ee7898451531949a5423, type: 2}
+  result: {fileID: 11400000, guid: ea8413b43372019b9ab625e68aad1215, type: 2}

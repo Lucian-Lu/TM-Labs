@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 741ce6b8bc3a326468b973395deccc14, type: 3}
+  m_Name: King Armor
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: King's Armor
+  <Description>k__BackingField: Armor for the champions of the battlefield, forged
+    from pure gold to signify not just strength, but absolute supremacy. Each gilded
+    piece is a testament to unparalleled craftsmanship, offering not only unmatched
+    protection but also an aura of undeniable authority on the battlefield. Increases
+    Max HP to 1000.
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: 58d91f66b5f28e8c1a914d65292d2515, type: 3}
+  <DefaultParametersList>k__BackingField: []
+  <itemPrefab>k__BackingField: {fileID: 6286598943042097995, guid: 9c365f1d70e2fc02089c59c21396c323, type: 3}
+  attackDamage: 0
+  maxHealthIncrease: 1000
+  <actionSFX>k__BackingField: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0756f30a60080a44b7e71b3f899893a, type: 3}
+  m_Name: Strange Letter
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: Strange Letter
+  <Description>k__BackingField: A strange letter. The only things written on it is
+    "try typing out sothisisaneasteregg". Typing? Wonder what that is..? Some kind
+    of strange fighting technique? I wouldn't know any better.
+  <ItemImage>k__BackingField: {fileID: 1262863193, guid: 665e721efaf68ab3696378826a19bbad, type: 3}
+  <DefaultParametersList>k__BackingField: []
+  <itemPrefab>k__BackingField: {fileID: 1958150066460612533, guid: dfc51b29aa22a02539d983acfbabdff0, type: 3}
+  modifiersData: []
+  <actionSFX>k__BackingField: {fileID: 0}
