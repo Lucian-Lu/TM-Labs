@@ -387,21 +387,21 @@ MonoBehaviour:
   lines:
   - ' In the heart of the kingdom of Eldoria, there lived a knight named Sir Roland.'
   - Born of noble blood, he yearned for more than titles and lands.
-  - One fateful night, under a moonlit sky, he dreamt of untold riches, hidden in
-    the darkest corners of the realm.
-  - '"Riches and glory await those who dare," whispered an ancient voice in his dream.'
+  - One fateful night, under a moonlit sky, he received a letter from the king.
+  - '"My daughter has been kidnapped. Evil monsters have taken her to their vile
+    realm. You MUST rescue her at all costs."'
   - Awaking with a newfound purpose, Sir Roland knew what he must do.
   - He donned his armor, polished and gleaming, and took up his trusty sword.
-  - With a heart full of courage, and eyes set on the horizon, he vowed to conquer
-    every challenge.
+  - With a heart full of courage, and eyes set on the horizon, he vowed to rescue
+    the princess.
   - 'Hordes of monstrous foes, and treacherous paths lay ahead, but none could deter
     his resolve.  '
-  - For Sir Roland sought not just gold, but a legacy of unmatched valor.
+  - For Sir Roland sought not just glory, but a legacy of unmatched valor.
   - Thus began the quest of a lifetime, a journey for glory and riches, that would
     etch his name in history.
   - This is the tale of Sir Roland, the knight who dared to dream, and embarked on
-    an epic adventure, in the land of Monster Mania.
-  textSpeed: 0.04
+    an epic adventure, to rescue the princess from the land of Monster Mania.
+  textSpeed: 0.08
   dialogueCompleted: 0
 --- !u!114 &244086101
 MonoBehaviour:

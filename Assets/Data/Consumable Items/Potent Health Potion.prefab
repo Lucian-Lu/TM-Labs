@@ -56,6 +56,10 @@ PrefabInstance:
       propertyPath: inventoryItem
       value: 
       objectReference: {fileID: 11400000, guid: 6f2b0668ff25a12b098d1e44af18d144, type: 2}
+    - target: {fileID: 7961087611828304775, guid: e2207c65c2f9479d4b6fc7a2dbc9b1dc, type: 3}
+      propertyPath: m_Volume
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

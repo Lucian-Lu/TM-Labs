@@ -25,4 +25,4 @@ MonoBehaviour:
   <itemPrefab>k__BackingField: {fileID: 6286598943042097995, guid: 9c365f1d70e2fc02089c59c21396c323, type: 3}
   attackDamage: 0
   maxHealthIncrease: 1000
-  <actionSFX>k__BackingField: {fileID: 0}
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: c8a1c977a2951a363940ebc01de76f40, type: 3}
